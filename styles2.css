@@ -1,0 +1,27 @@
+.one {
+    position: absolute;
+    left: 44%;
+}
+.butt2 {
+    border: 3px solid #539461;
+    border-radius: 12px;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 200px;
+    height: 40px;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+}
+.butt2:hover{
+    color: #fff;
+    background-color: #539461;
+}
+p {
+    text-align: center;
+    color: aquamarine;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
